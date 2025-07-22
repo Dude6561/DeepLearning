@@ -49,3 +49,10 @@ print('last output without predictation {}'.format(z2))
 # 4. has 1 node in the output layer
 
 # Call the network **small_network**.
+
+
+
+
+
+
+## gradient function error function and calculating 
